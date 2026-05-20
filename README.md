@@ -1,20 +1,31 @@
-#Zepto SQL Data Analyst Portfolio Project
+Zepto SQL Data Analyst Portfolio Project
+
 Simulating real-world analyst workflows — from messy raw data to actionable business insights, powered entirely by SQL.
 
 
 🌟 What Is This Project?
+
 This is a complete, hands-on data analyst portfolio project built around an e-commerce inventory dataset scraped from Zepto — one of India's fastest-growing quick-commerce startups.
 Whether you're cracking your first data interview or polishing your GitHub portfolio, this project mirrors how analysts actually operate behind the scenes at real retail and e-commerce companies.
 
 🎯 Who Should Use This?
-👤 Audience💡 Why It Helps📊 Aspiring Data AnalystsBuild a standout portfolio project for interviews & LinkedIn📚 SQL LearnersPractice on a real, messy, multi-column dataset💼 Interview PreppersCovers retail, e-commerce & product analytics scenarios🧪 Data EnthusiastsExplore real inventory data with business-driven queries
+
+👤 Audience  
+💡 Why It Helps  
+📊 Aspiring Data AnalystsBuild a standout portfolio project for interviews & LinkedIn 
+📚 SQL LearnersPractice on a real, messy, multi-column dataset
+💼 Interview PreppersCovers retail, e-commerce & product analytics scenarios
+🧪 Data EnthusiastsExplore real inventory data with business-driven queries
 
 📌 Project Overview
+
 The core mission of this project is to simulate how a real data analyst in the e-commerce or retail industry works. Using SQL, you will:
-✅ Set up a messy, real-world e-commerce inventory database
-✅ Perform Exploratory Data Analysis (EDA) to explore product categories, availability, and pricing inconsistencies
-✅ Implement Data Cleaning to handle null values, remove invalid entries, and convert pricing from paise to rupees
-✅ Write business-driven SQL queries to derive insights around pricing, inventory, stock availability, revenue, and more
+
+✅ Set up a messy, real-world e-commerce inventory database.
+✅ Perform Exploratory Data Analysis (EDA) to explore product categories, availability, and pricing inconsistencies.
+✅ Implement Data Cleaning to handle null values, remove invalid entries, and convert pricing from paise to rupees.
+✅ Write business-driven SQL queries to derive insights around pricing, inventory, stock availability, revenue, and more.
+
 
 📁 Dataset Overview
 
