@@ -12,17 +12,6 @@ Whether you're cracking your first data interview or polishing your GitHub portf
 
 ---
 
-## 🎯 Who Should Use This?
-
-| 👤 Audience | 💡 Why It Helps |
-|---|---|
-| 📊 Aspiring Data Analysts | Build a standout portfolio project for interviews & LinkedIn |
-| 📚 SQL Learners | Practice on a real, messy, multi-column dataset |
-| 💼 Interview Preppers | Covers retail, e-commerce & product analytics scenarios |
-| 🧪 Data Enthusiasts | Explore real inventory data with business-driven queries |
-
----
-
 ## 📌 Project Overview
 
 The core mission of this project is to simulate how a **real data analyst** in the e-commerce or retail industry works. Using SQL, you will:
@@ -110,30 +99,6 @@ The heart of the project — answering real business questions with SQL:
 
 ---
 
-## 🚀 How To Get Started
-
-```bash
-# 1️⃣  Clone the repository
-git clone https://github.com/your-username/zepto-sql-project.git
-
-# 2️⃣  Import the dataset into your preferred SQL environment
-
-# 3️⃣  Run the exploration queries first
-# 4️⃣  Move to cleaning, then business insights
-```
-
----
-
-## 💼 Why This Project Stands Out
-
-- 🌍 **Real data** — not synthetic or textbook-clean
-- 🏢 **Business-first thinking** — queries are framed as actual analyst tasks
-- 🧼 **Cleaning included** — shows interviewers you handle messy data
-- 📈 **Portfolio-ready** — structured to showcase end-to-end analytical thinking
-- 🇮🇳 **India-focused** — relevant for roles in Indian e-commerce, retail & startup ecosystems
-
----
-
 ## 🤝 Contributing
 
 Found a bug or want to add more queries? PRs are welcome! Open an issue first to discuss what you'd like to change.
@@ -149,6 +114,6 @@ This project is for **educational and portfolio purposes only**. Dataset credit 
 <div align="center">
 
 ⭐ **If this project helped you, give it a star!** ⭐  
-Made with ❤️ for the data analyst community
+Made with ❤️ 
 
 </div>
