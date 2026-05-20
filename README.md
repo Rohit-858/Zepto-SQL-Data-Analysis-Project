@@ -1,4 +1,4 @@
-#🛒 Zepto SQL Data Analyst Portfolio Project
+#Zepto SQL Data Analyst Portfolio Project
 Simulating real-world analyst workflows — from messy raw data to actionable business insights, powered entirely by SQL.
 
 
